@@ -142,6 +142,7 @@
                         <outlet property="mailButton" destination="7yF-2C-mJG" id="9Ca-q4-K8q"/>
                         <outlet property="messageLabel" destination="nP4-QP-i7y" id="FWL-fa-eeU"/>
                         <outlet property="nameLabel" destination="LXc-R3-Bfc" id="uRt-Oo-0hd"/>
+                        <outlet property="ola" destination="tME-sB-kQJ" id="qk7-tM-RHJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
